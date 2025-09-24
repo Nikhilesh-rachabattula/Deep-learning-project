@@ -12,7 +12,7 @@ Deepfakes—AI-generated synthetic videos—pose a serious threat to online trus
 
 ---
 
-## 📁 Dataset
+## 📁 Dataset  
 
 We used the **Deep Fake Detection (DFD)** dataset from Kaggle:
 - Videos labeled as either `real` or `fake`.
